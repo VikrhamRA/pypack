@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import statistics as stat
-#oothaaaaa
 file=open("caseStudy5.txt","r")
 data=[]
 score1=[]
